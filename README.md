@@ -9,6 +9,8 @@ A simple calculator application built using Python.
 - Multiplication
 - Division
 - Error handling for division by zero
+## Screenshot
+![Calculator](err3.png)
 
 ## Technologies Used
 - Python
